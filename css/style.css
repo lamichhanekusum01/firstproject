@@ -11,17 +11,16 @@ img{
     margin:0 auto;
     background: #fff;
 }
-<<<<<<< HEAD
 #home{
     
 }
-=======
 nav{
     text-decoration: none;
+    color: teal;
 }
 .menu{
     padding: 6px 0 6px 40px;
-    background: grey;
+    background: green;
 
 }
 .menu a {
@@ -33,4 +32,4 @@ nav{
 }
 .menu a:hover{
     color: lightgrey;
->>>>>>> 59d25fff0bdd9047d3b267db8adc391cb53094fc
+}
