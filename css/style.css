@@ -12,6 +12,7 @@ img{
     
     margin:0 auto;
     background: #fff;
+    width: :740px;
 }
 #home{
         width: 100%;
@@ -42,4 +43,7 @@ nav{
 }
 .menu a:hover{
     color: lightgrey;
+}
+img{
+    width: 100%;
 }
