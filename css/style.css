@@ -35,13 +35,13 @@ img{
     background-color: yellowgreen;
 }
 #text h1{
-    font-family: 'Anton', sans-serif;
-     font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+     font-size: 50px;
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-      color: white;
+      color:purple;
 }
 nav{
     text-decoration: none;
@@ -79,13 +79,12 @@ img{
 #image-about p{
     padding: 10px;
 }
-#social-icon{
+#social{
+    color: #c5c5d3;
     float: right;
-    padding: 13px;
+    padding-right: 10px;
 }
 #elements{
-    margin-top: 13px;
-}
-.clear{
-    clear: both;
+    font-size: 32px;
+    font-family: fantasy;
 }
