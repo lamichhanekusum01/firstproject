@@ -37,3 +37,12 @@ nav{
 img{
     width: 100%;
 }
+#about .row{
+    padding: 20px;
+
+}
+#image-about{
+    border-radius:60px;
+    width:auto;
+    border: tomato 30px;
+}
