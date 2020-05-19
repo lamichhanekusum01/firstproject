@@ -79,3 +79,13 @@ img{
 #image-about p{
     padding: 10px;
 }
+#social-icon{
+    float: right;
+    padding: 13px;
+}
+#elements{
+    margin-top: 13px;
+}
+.clear{
+    clear: both;
+}
