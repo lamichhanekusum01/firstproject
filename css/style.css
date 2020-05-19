@@ -10,7 +10,7 @@ img{
     
     margin:0 auto;
     background: #fff;
-    width: :740px;
+    width: 740px;
 }
 #home{
     
@@ -41,8 +41,7 @@ img{
     padding: 20px;
 
 }
-#image-about{
-    border-radius:60px;
-    width:auto;
-    border: tomato 30px;
+#image-about img{
+    border-radius:150%;
+    
 }
