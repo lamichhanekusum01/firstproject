@@ -1,5 +1,7 @@
-body{
-    margin:0 auto;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
 }
 img{
     width: 100%;
@@ -10,10 +12,26 @@ img{
     
     margin:0 auto;
     background: #fff;
-    width: :740px;
+    width: 740px;
+    position: relative;
 }
 #home{
+        width: 100%;
+        height: 100%;
+        max-height: 100%;
+        margin: 0;
+        padding: 0;
+        background-image: url('/image/healthy-food-1328289.jpg');
+        background-size:100% 100%;
+        background-repeat: no-repeat;
     
+}
+ #main-image img {
+    background-image:url('/image/main-image.jpg');
+    width: 100%;
+    position: absolute;
+
+    background-color: yellowgreen;
 }
 nav{
     text-decoration: none;
@@ -41,8 +59,10 @@ img{
     padding: 20px;
 
 }
-#image-about{
-    border-radius:60px;
-    width:20%;
-    border: tomato 30px;
+#image-about img{
+    border-radius:150%;
+    
+}
+#image-about p{
+    padding: 10px;
 }
