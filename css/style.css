@@ -40,6 +40,9 @@ nav{
 .menu{
     padding: 6px 0 6px 40px;
     background: green;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
 
 }
 .menu a {
