@@ -88,3 +88,26 @@ img{
     font-size: 32px;
     font-family: fantasy;
 }
+#about .container{
+    widows: 740px;
+}
+
+#footer h1{
+    color: #1c0c0c;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin: 15px;
+margin-left: 65px;
+}
+#footer .row{
+    background-color:#77d166;
+}
+
+#footer p{
+    margin: 19px;
+     color: aliceblue;
+    margin-left: 59px;
+    
+}
+#footer a{
+    color:aliceblue;
+}
