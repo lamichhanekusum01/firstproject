@@ -111,3 +111,19 @@ margin-left: 65px;
 #footer a{
     color:aliceblue;
 }
+  #fixed-footer  footer{
+    padding: 6px 40px 6px 40px;
+    font-family:  'Lucida Sans Unicode';
+    color: #444444;  
+    text-decoration:right;
+    font-size: 11px;
+    margin: 0px 27% 0px 35%;
+
+
+}
+footer a{
+     text-decoration: none;
+     color:#262626;
+
+
+}
